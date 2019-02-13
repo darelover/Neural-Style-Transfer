@@ -32,7 +32,7 @@ C and G represent content and generated image respectively
 a(C)and a(G) are the activations from the chosen layer when image is passed to the model  
 n<sub>H</sub>, n<sub>W</sub>, n<sub>C</sub> are the height, weight and number of channels of the image respectively
 
-|                Formula Used           |                           Generated Image                                 |
+|                Formula Used           |                           Generated Image(Run only upto 100 iterations)   |
 |:-------------------------------------:|:-------------------------------------------------------------------------:|
 |  ![First](resources/CodeCogsEqn1.png) |  ![GeneratedFirst](resources/Content%20formula%20tuning/Generated_21.png) |
 | ![Second](resources/CodeCogsEqn2.png) | ![GeneratedSecond](resources/Content%20formula%20tuning/Generated_22.png) |
